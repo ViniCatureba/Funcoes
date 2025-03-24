@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\vinic\\Desktop\\C#\\Funcoes\\Funcoes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B890E07-C1A6-4654-9ADB-089D90F9F1A5}|EX\\EX.csproj|c:\\users\\vinic\\desktop\\c#\\funcoes\\funcoes\\ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B890E07-C1A6-4654-9ADB-089D90F9F1A5}|EX\\EX.csproj|solutionrelative:ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D9E66EA-FC97-4129-B95B-9A0F78D65A87}|Funcoes\\Funcoes.csproj|c:\\users\\vinic\\desktop\\c#\\funcoes\\funcoes\\funcoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D9E66EA-FC97-4129-B95B-9A0F78D65A87}|Funcoes\\Funcoes.csproj|solutionrelative:funcoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E66EA-FC97-4129-B95B-9A0F78D65A87}|Funcoes\\Funcoes.csproj|c:\\users\\vinic\\desktop\\c#\\funcoes\\funcoes\\funcoes\\funcoes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D9E66EA-FC97-4129-B95B-9A0F78D65A87}|Funcoes\\Funcoes.csproj|solutionrelative:funcoes\\funcoes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcoes",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\C#\\Funcoes\\Funcoes\\Funcoes\\Funcoes.csproj",
+              "RelativeDocumentMoniker": "Funcoes\\Funcoes.csproj",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\C#\\Funcoes\\Funcoes\\Funcoes\\Funcoes.csproj",
+              "RelativeToolTip": "Funcoes\\Funcoes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T22:22:15.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\C#\\Funcoes\\Funcoes\\EX\\Program.cs",
+              "RelativeDocumentMoniker": "EX\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\C#\\Funcoes\\Funcoes\\EX\\Program.cs",
+              "RelativeToolTip": "EX\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwDoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:10:52.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\C#\\Funcoes\\Funcoes\\Funcoes\\Program.cs",
               "RelativeDocumentMoniker": "Funcoes\\Program.cs",
               "ToolTip": "C:\\Users\\vinic\\Desktop\\C#\\Funcoes\\Funcoes\\Funcoes\\Program.cs",
               "RelativeToolTip": "Funcoes\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwDAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T03:10:57.859Z",
               "EditorCaption": ""

@@ -47,3 +47,12 @@ double Soma(double num1, double num2)
     return num1 + num2;
 }
 Console.WriteLine(Soma(1,5));
+
+//fUNCAO QUE EXIBE A IDADE
+//Funcao sem retorno
+
+
+void ExibirIdade(int Idade)
+{
+    Console.WriteLine("A idade da pessoa é: "+ Idade);
+}

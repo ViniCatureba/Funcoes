@@ -12,3 +12,4 @@ C:\Users\vinic\Desktop\C#\Funcoes\Funcoes\Funcoes\obj\Debug\net8.0\refint\Funcoe
 C:\Users\vinic\Desktop\C#\Funcoes\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.pdb
 C:\Users\vinic\Desktop\C#\Funcoes\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
 C:\Users\vinic\Desktop\C#\Funcoes\Funcoes\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll
+C:\Users\vinic\Desktop\C#\Funcoes\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.sourcelink.json
